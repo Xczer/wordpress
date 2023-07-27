@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Typography &#8211; SingleClickBlog</title>
+	<atom:link href="/category/typography/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 25 Jul 2018 05:06:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Introducing Wayward Sans, a free handmade font</title>
+		<link>/2018/07/25/sand-background/</link>
+					<comments>/2018/07/25/sand-background/#respond</comments>
+		
+		<dc:creator><![CDATA[Xczer]]></dc:creator>
+		<pubDate>Wed, 25 Jul 2018 05:06:52 +0000</pubDate>
+				<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">http://estudiopatagon.com/themes/wordpress/recov3/?p=349</guid>
+
+					<description><![CDATA[Typography is the art and technique of arranging type to make written language legible, readable, and appealing when displayed. The arrangement of type involves selecting...]]></description>
+										<content:encoded><![CDATA[<p>Typography is the art and technique of arranging type to make written language legible, readable, and appealing when displayed.</p>
+<p>The arrangement of type involves selecting <strong>typefaces, point sizes, line lengths, line-spacing</strong> (leading), and <strong>letter-spacing</strong> (tracking), and adjusting the space between pairs of letters.</p>
+<blockquote><p>The term typography is also applied to the style, arrangement, and appearance of the letters, numbers, and symbols created by the process.</p></blockquote>
+<p>Type design is a closely related craft, sometimes considered part of typography; most typographers do not design typefaces, and some type designers do not consider themselves typographers.</p>
+<p><a href="https://en.wikipedia.org/wiki/Typography" target="_blank" rel="noopener"> Typography</a> also may be used as a decorative device, unrelated to communication of information.</p>
+<h3>Contents</h3>
+<ol>
+<li>Etymology</li>
+<li><strong>History</strong></li>
+<li>Evolution
+<ol>
+<li>Experimental typeface uses</li>
+<li>Techniques</li>
+</ol>
+</li>
+<li><strong>Scope</strong></li>
+<li>Text typefaces</li>
+</ol>
+<h2>Etymology</h2>
+<p>The word &#8220;typography&#8221; in English comes from the Greek roots τύπος typos = &#8220;impression&#8221; and -γραφία -graphia = &#8220;writing&#8221;.</p>
+<h2>History</h2>
+<p>Although typically applied to printed, published, broadcast, and reproduced materials in <strong>contemporary times</strong>, all words, letters, symbols, and numbers written alongside the earliest naturalistic drawings by humans may be called typography.</p>
+<hr />
+<p>The word, typography, is derived from the <a href="https://en.wikipedia.org/wiki/Typography" target="_blank" rel="noopener">Greek</a> words τύπος typos &#8220;form&#8221; or &#8220;impression&#8221; and γράφειν graphein &#8220;to write&#8221;, traces its origins to the first punches and dies used to make seals and currency in ancient times, which ties the concept to printing.</p>
+<h2>Evolution</h2>
+<p><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-366" src="http://estudiopatagon.com/themes/wordpress/recov3/wp-content/uploads/2018/07/wash-705674_1280-1024x680.jpg" alt="" width="718" height="477" /></p>
+<p>The design of typefaces has developed alongside the development of typesetting systems.</p>
+<p>Although typography has evolved significantly from its origins, it is a largely conservative art that tends to cleave closely to tradition. This is because legibility is paramount, and so the typefaces that are the most readable usually are retained.</p>
+<p><em>In addition, the evolution of typography is inextricably intertwined with lettering by hand and related art forms, especially formal styles, which thrived for centuries preceding typography, and so the evolution of typography must be discussed with reference to this relationship.</em></p>
+<h2>Scope</h2>
+<p>In contemporary use, the practice and study of typography include a broad range, covering all aspects of letter design and application, both mechanical (typesetting, type design, and typefaces) and manual (handwriting and calligraphy).</p>
+<p><a href="https://en.wikipedia.org/wiki/Typography" target="_blank" rel="noopener">Typographical</a> elements may appear in a wide variety of situations, including:</p>
+<ul>
+<li>Documents</li>
+<li>Presentations</li>
+<li>Display typography (described below)</li>
+<li>Clothing</li>
+<li>Maps and labels</li>
+<li>Vehicle instrument panels</li>
+<li>As a component of industrial design—type on household appliances, pens, and wristwatches, for example</li>
+<li>As a component in modern poetry (see, for example, the poetry of e. e. cummings)</li>
+</ul>
+<p>Since digitization, typographical uses have spread to a wider range of applications, appearing on web pages, LCD mobile phone screens, and hand-held video games.</p>
+<h2>Text typefaces</h2>
+<p>Traditionally, text is composed to create a readable, coherent, and visually satisfying typeface that works invisibly, without the awareness of the reader.</p>
+<p><code>Even distribution of typeset material, with a minimum of distractions and anomalies, is aimed at producing clarity and transparency.</code></p>
+<p><strong>Choice of typeface(s) is the primary aspect of text typography—prose fiction</strong>, non-fiction, editorial, educational, religious, scientific, spiritual, and commercial writing all have differing characteristics and requirements of appropriate typefaces (and their fonts or styles).</p>
+<p>For historic material, established text typefaces frequently are chosen according to a scheme of historical genre acquired by a long process of accretion, with considerable overlap among historical periods.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/07/25/sand-background/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

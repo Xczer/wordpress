@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Audio &#8211; SingleClickBlog</title>
+	<atom:link href="/category/audio/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 24 Sep 2017 21:46:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Radio sound packs</title>
+		<link>/2017/09/24/radio-sound-packs/</link>
+					<comments>/2017/09/24/radio-sound-packs/#respond</comments>
+		
+		<dc:creator><![CDATA[Xczer]]></dc:creator>
+		<pubDate>Sun, 24 Sep 2017 21:46:00 +0000</pubDate>
+				<category><![CDATA[Audio]]></category>
+		<guid isPermaLink="false">http://estudiopatagon.com/themes/wordpress/recov3/elvis-presley-tribute/</guid>
+
+					<description><![CDATA[It was one of the worst storms to hit London since God knows when. The thunder rolled, lightning flashed and the rain hammered into the...]]></description>
+										<content:encoded><![CDATA[<div class="kg-card-markdown">
+<p>It was one of the worst storms to hit London since God knows when. The thunder rolled, lightning flashed and the rain hammered into the roof. There&#8217;s something about a storm that brings a sense of doom. It fitted so perfectly.</p>
+<p>When the ITV news flash sign came on the TV screen everyone looked up. When the flash sign was immediately followed by a still of Elvis Presley, a quiet voice breathed, &#8220;Oh, my God.&#8221;</p>
+<p>&#8220;Reports are coming in that Elvis Presley, the rock and roll singer, died this evening at his home in Memphis, Tennessee.&#8221;</p>
+<p>We all looked at each other in disbelief.</p>
+<p>&#8220;Elvis is dead!&#8221;</p>
+<p>It didn&#8217;t seem quite credible. And yet it wasn&#8217;t the kind of shock that followed the news of J.F.K. being cut down. There had been so much speculation about Presley&#8217;s mental and physical health that his death was unpleasantly predictable.</p>
+<p>It was almost impossible to know what to think. My first impulse was to pick up the phone and call a couple of people. I tried two numbers, but they were both busy. Obviously other people had reacted the same way. It was the kind of news that demanded to be passed on. Elvis had always been there. For more than two decades he&#8217;d maintained a unique position in too many people&#8217;s lives. Despite all the depressing rumours it scarcely seemed possible that he&#8217;d gone, that Elvis Presley was dead at 42.</p>
+<p>I guess the only word I can use is numb. Numb, and just very slightly embarrassed at the way I was reacting. It wasn&#8217;t the ordinary kind of grief that you feel for a personal friend. There was no voice telling me that I&#8217;d never see Elvis Presley again. Jesus Christ, I&#8217;d never seen him, ever. I didn&#8217;t even regret that I&#8217;d never get the chance to see him. The Elvis Presley I&#8217;d have given my right arm to watch was the wild hoodlum in the gold jacket who vanished into the US Army and never returned. I&#8217;d mourned his passing many years ago.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/09/24/radio-sound-packs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vectorized Old Radio</title>
+		<link>/2017/09/20/vectorized-old-radio/</link>
+					<comments>/2017/09/20/vectorized-old-radio/#respond</comments>
+		
+		<dc:creator><![CDATA[Xczer]]></dc:creator>
+		<pubDate>Wed, 20 Sep 2017 03:16:32 +0000</pubDate>
+				<category><![CDATA[Audio]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Vector]]></category>
+		<guid isPermaLink="false">http://estudiopatagon.com/themes/wordpress/recov3/vectorized-old-radio/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ligula quam, dictum faucibus lorem a, euismod feugiat ante. Nunc ornare aliquet blandit. In ullamcorper aliquet...]]></description>
+										<content:encoded><![CDATA[<div class="kg-card-markdown">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ligula quam, dictum faucibus lorem a, euismod feugiat ante. Nunc ornare aliquet blandit. In ullamcorper aliquet ipsum, sit amet sagittis justo consectetur in.</p>
+<p>Nulla vel bibendum enim. Praesent ipsum velit, suscipit eu consequat eget, volutpat non neque. Morbi lorem tellus, dapibus quis imperdiet nec, imperdiet vitae elit. Quisque vel dictum velit. Suspendisse potenti.</p>
+<h3 id="pellentesquehabitantmorbitristique">Pellentesque habitant morbi tristique</h3>
+<p>senectus et netus et malesuada fames ac turpis egestas. Suspendisse quam lorem, euismod ut sollicitudin ut, lobortis eget mi. Suspendisse condimentum augue sit amet ornare faucibus.</p>
+<p>Nam libero augue, luctus nec odio et, faucibus volutpat sem. Mauris non sapien quam. Mauris egestas sapien at fringilla aliquam. Vestibulum placerat lorem et ullamcorper semper. Nunc vitae feugiat diam.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/09/20/vectorized-old-radio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

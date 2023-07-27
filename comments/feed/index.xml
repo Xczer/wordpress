@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for SingleClickBlog	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Jul 2023 09:44:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>
+		Comment on Spectacular designs of animals in polygonal style by Cree Percy		</title>
+		<link>/2018/10/06/spectacular-and-colorful-designs-of-animals-in-polygonal-style/#comment-5</link>
+
+		<dc:creator><![CDATA[Cree Percy]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2018 18:04:48 +0000</pubDate>
+		<guid isPermaLink="false">http://estudiopatagon.com/themes/wordpress/recov3/?p=343#comment-5</guid>
+
+					<description><![CDATA[Glad to know you like it!, Regards!]]></description>
+			<content:encoded><![CDATA[<p>Glad to know you like it!, Regards!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on How to create a retro joystick on photoshop by Estudio Patagon		</title>
+		<link>/2018/07/20/how-to-create-a-retro-joystick/#comment-4</link>
+
+		<dc:creator><![CDATA[Estudio Patagon]]></dc:creator>
+		<pubDate>Wed, 13 Jun 2018 21:18:02 +0000</pubDate>
+		<guid isPermaLink="false">http://estudiopatagon.com/themes/wordpress/recov3/how-to-create-a-retro-joystick/#comment-4</guid>
+
+					<description><![CDATA[We can start drawing now. First create a new layer and name it “Upside.” Pick 65% gray as your Foreground Color. Get the Rounded Rectangle Tool, set the Radius to 40 pixels, and select Fill Pixels in the tool options. Draw a rounded square as in the below image.
+
+Go to Filter &gt; Noise &gt; Add Noise, then set the Amount to 2%. Also, set Distribution to Uniform and make sure that Monochromatic is checked.]]></description>
+			<content:encoded><![CDATA[<p>We can start drawing now. First create a new layer and name it “Upside.” Pick 65% gray as your Foreground Color. Get the Rounded Rectangle Tool, set the Radius to 40 pixels, and select Fill Pixels in the tool options. Draw a rounded square as in the below image.</p>
+<p>Go to Filter > Noise > Add Noise, then set the Amount to 2%. Also, set Distribution to Uniform and make sure that Monochromatic is checked.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on How to create a retro joystick on photoshop by Estudio Patagon		</title>
+		<link>/2018/07/20/how-to-create-a-retro-joystick/#comment-3</link>
+
+		<dc:creator><![CDATA[Estudio Patagon]]></dc:creator>
+		<pubDate>Wed, 13 Jun 2018 21:06:45 +0000</pubDate>
+		<guid isPermaLink="false">http://estudiopatagon.com/themes/wordpress/recov3/how-to-create-a-retro-joystick/#comment-3</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2018/07/20/how-to-create-a-retro-joystick/#comment-2&quot;&gt;Estudio Patagon&lt;/a&gt;.
+
+This is a reply]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2018/07/20/how-to-create-a-retro-joystick/#comment-2">Estudio Patagon</a>.</p>
+<p>This is a reply</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on How to create a retro joystick on photoshop by Estudio Patagon		</title>
+		<link>/2018/07/20/how-to-create-a-retro-joystick/#comment-2</link>
+
+		<dc:creator><![CDATA[Estudio Patagon]]></dc:creator>
+		<pubDate>Wed, 13 Jun 2018 21:02:57 +0000</pubDate>
+		<guid isPermaLink="false">http://estudiopatagon.com/themes/wordpress/recov3/how-to-create-a-retro-joystick/#comment-2</guid>
+
+					<description><![CDATA[This is a test]]></description>
+			<content:encoded><![CDATA[<p>This is a test</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

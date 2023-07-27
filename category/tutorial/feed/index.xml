@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tutorial &#8211; SingleClickBlog</title>
+	<atom:link href="/category/tutorial/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Jul 2023 09:44:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>How to create a retro joystick on photoshop</title>
+		<link>/2018/07/20/how-to-create-a-retro-joystick/</link>
+					<comments>/2018/07/20/how-to-create-a-retro-joystick/#comments</comments>
+		
+		<dc:creator><![CDATA[Xczer]]></dc:creator>
+		<pubDate>Fri, 20 Jul 2018 04:44:23 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">http://estudiopatagon.com/themes/wordpress/recov3/how-to-create-a-retro-joystick/</guid>
+
+					<description><![CDATA[Before we get started, let&#8217;s take a look at the image we&#8217;ll be creating. As always, the layered Photoshop file is available via our Psdtuts+...]]></description>
+										<content:encoded><![CDATA[<div class="kg-card-markdown">
+<p>Before we get started, let&#8217;s take a look at the image we&#8217;ll be creating. As always, the layered Photoshop file is available via our Psdtuts+ Plus membership.</p>
+<p>So, are you ready to start? Like every tutorial, it is recommended to use the latest version of Photoshop.</p>
+<h3 id="step1">Step 1</h3>
+<p>Let&#8217;s open a new document using the settings shown below.</p>
+<p><img decoding="async" loading="lazy" class="aligncenter wp-image-292 size-full" src="/wp-content/uploads/2018/04/tutorial-1.jpg" alt="" width="738" height="410" /></p>
+<h3 id="step2">Step 2</h3>
+<p>Now we&#8217;ll need to have some guides to make sure that everything in our document will be in the right place. And in order to put the guides in the correct place, we&#8217;ll make some fixed sized selections.</p>
+<p>Get the Rectangular Marque Tool, set style to Fixed Size and set Width and Height to 140 pixels. Click on the canvas, then while holding the left mouse button place the selection to the top left corner. Drag one horizontal and one vertical guide and snap them to the edges of the selection.</p>
+<p>Drag the selection to the right bottom corner and get two more guides. Because we want our tool to snap to these guides, make sure that View &gt; Snap is active.</p>
+<p><img decoding="async" loading="lazy" class="size-full wp-image-293 aligncenter" src="/wp-content/uploads/2018/04/tutorial-2.jpg" alt="" width="984" height="605" /></p>
+<h3 id="step3">Step 3</h3>
+<p>We can start drawing now. First create a new layer and name it &#8220;Upside.&#8221; Pick 65% gray as your Foreground Color. Get the Rounded Rectangle Tool, set the Radius to 40 pixels, and select Fill Pixels in the tool options. Draw a rounded square as in the below image.</p>
+<p>Go to Filter &gt; Noise &gt; Add Noise, then set the Amount to 2%. Also, set Distribution to Uniform and make sure that Monochromatic is checked.</p>
+<p><img decoding="async" loading="lazy" class="size-full wp-image-294 aligncenter" src="/wp-content/uploads/2018/04/tutorial-3.jpg" alt="" width="879" height="623" /></p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/07/20/how-to-create-a-retro-joystick/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Syntax Highlight powered with prism</title>
+		<link>/2018/04/18/syntax-highlight/</link>
+					<comments>/2018/04/18/syntax-highlight/#respond</comments>
+		
+		<dc:creator><![CDATA[Xczer]]></dc:creator>
+		<pubDate>Thu, 19 Apr 2018 01:51:00 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">http://estudiopatagon.com/themes/wordpress/recov3/syntax-highlight/</guid>
+
+					<description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right...]]></description>
+										<content:encoded><![CDATA[<div class="kg-card-markdown">
+<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+<h3 id="syntaxhighlight">Syntax Highlight</h3>
+<pre class="line-numbers language-html"><code>
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+  &lt;meta charset="utf-8"&gt;
+  &lt;title&gt;&lt;/title&gt;
+  &lt;link rel="stylesheet" href="css/style.css"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;header&gt;&lt;/header&gt;
+  &lt;div role="main"&gt;&lt;/div&gt;
+  &lt;footer&gt;&lt;/footer&gt;
+  &lt;script src="js/script.js"&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+<pre class="language-css"><code>
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+a {
+  color: #0088cc;
+  text-decoration: none;
+}
+</code></pre>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/04/18/syntax-highlight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to use Gutenberg Editor</title>
+		<link>/2018/04/17/how-to-use-gutenberg-editor/</link>
+					<comments>/2018/04/17/how-to-use-gutenberg-editor/#respond</comments>
+		
+		<dc:creator><![CDATA[Xczer]]></dc:creator>
+		<pubDate>Tue, 17 Apr 2018 05:06:26 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">http://estudiopatagon.com/themes/wordpress/recov3/?p=234</guid>
+
+					<description><![CDATA[As I write and you read this, the WordPress core team is in the process of developing an entirely new content editor for WordPress – Gutenberg –...]]></description>
+										<content:encoded><![CDATA[<p>As I write and you read this, the WordPress core team is in the process of developing an entirely new content editor for WordPress – <a href="https://www.shoutmeloud.com/wordpress-gutenberg-editor-wordpress5.html">Gutenberg</a> – and it is currently scheduled for release at some point in 2018 as part of WordPress 5.0.</p>
+<p>When that happens, the way that you <a href="https://www.shoutmeloud.com/how-to-write-a-blog-post.html">write your blog posts</a> in WordPress will drastically change (though you will be able to install a plugin to keep using the current editor, if desired).</p>
+<p>It is to help you get ready for the change that I have penned down this post on How To Use The WordPress Gutenberg Editor.</p>
+<p>I’ll show you exactly how you can use the new editor to <a href="https://www.shoutmeloud.com/write-high-quality-blog-post-6-tips.html">write a blog post</a> so that you are ready for the transition when<a href="https://www.shoutmeloud.com/wordpress-gutenberg-editor-wordpress5.html"> WordPress 5.0 and Gutenberg get released</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/04/17/how-to-use-gutenberg-editor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pattern &#8211; SingleClickBlog</title>
+	<atom:link href="/category/pattern/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Apr 2018 03:29:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>4 websites to get some fancy patterns</title>
+		<link>/2018/04/19/fullwidth/</link>
+					<comments>/2018/04/19/fullwidth/#respond</comments>
+		
+		<dc:creator><![CDATA[Xczer]]></dc:creator>
+		<pubDate>Thu, 19 Apr 2018 03:29:54 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Pattern]]></category>
+		<guid isPermaLink="false">http://estudiopatagon.com/themes/wordpress/recov3/fullwidth/</guid>
+
+					<description><![CDATA[Patterns are a useful resource for website design. Filling the background with a full-blown image is no longer a useful solution today as the variety...]]></description>
+										<content:encoded><![CDATA[<div class="kg-card-markdown">
+<p>Patterns are a useful resource for website design. Filling the background with a full-blown image is no longer a useful solution today as the variety of devices and screen resolutions in the market make it difficult to adapt to them all, although it is true that the latest plugins and scripts offer solutions such as automatic image resizing.</p>
+<p>Patterns are similar to those images that are indefinitely repeated either horizontally or vertically.</p>
+<p>That makes a lot more sense today where usability is concerned, especially in responsive design. Today we&#8217;ve compiled a number of websites that collect many free patterns available for use on the design of your sites and web applications. Patterns Galleries | CSS3 Patterns | Patterns Generators | Examples of websites with patterns</p>
+<h3 id="patternsgalleries">Patterns Galleries:</h3>
+<p>There are numerous websites that offer complete resource galleries to download patterns: some of them can be found on the sites we list here:</p>
+<ul>
+<li id="colourlovers"><strong>Colour Lovers: </strong><a href="http://www.colourlovers.com/patterns">http://www.colourlovers.com/patterns</a></li>
+<li id="subtlepatterns"><strong>Subtle Patterns:</strong> <a href="http://subtlepatterns.com/">http://subtlepatterns.com/</a></li>
+<li><strong>DIN Pattern:</strong> <a href="http://www.dinpattern.com/">http://www.dinpattern.com/</a></li>
+<li><strong>Brusheezy:</strong> <a href="http://www.brusheezy.com/patterns">http://www.brusheezy.com/patterns</a></li>
+</ul>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/04/19/fullwidth/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
